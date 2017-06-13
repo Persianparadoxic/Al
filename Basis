@@ -1,0 +1,18 @@
+console.log("I'm Al.");
+let myName = prompt("Can you tell me who you are?");
+console.log("Can you tell me who you are?")
+console.log("""+myName+"."");
+confirm("Fine.");
+console.log("Fine.");
+console.log(""OK."");
+console.log("Don't 'OK' me, "+myName+". Only I get to do that.");
+console.log("Arent you gonna say something?");
+var q1 = prompt("Aren't you gonna say something?");
+console.log("""+q1+""");
+confirm("You know what, I don't care.");
+console.log("You know what, I don't care.");
+console.log(""OK."");
+confirm("Seriously, I don't.");
+console.log("Seriously, I don't.");
+console.log(""OK."");
+var q1 = prompt("");
